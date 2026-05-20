@@ -117,7 +117,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     alt="GitHub stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=dev-gabrielrdc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
 <img 
@@ -125,5 +125,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     alt="GitHub stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-gabrielrdc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
