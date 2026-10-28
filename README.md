@@ -12,16 +12,16 @@ Interesse principalmente em Cybersecurity, Redes, Cloud e Automação, buscando 
 Cybersecurity e Segurança da Informação | Redes e infraestrutura | Cloud Computing | Automação | Desenvolvimento de Software | Banco de Dados | Tecnologias
 
 Linguagens:
-Python • Java • C++ • JavaScript
+Python | Java | C++ | JavaScript
 
 Desenvolvimento:
-HTML • CSS • Programação Orientada a Objetos
+HTML | CSS | Programação Orientada a Objetos
 
 Tecnologias e ferramentas:
-Git • GitHub • Cloud • Power BI
+Git | GitHub | Cloud | Power BI
 
 Cybersecurity:
-Fortinet • Segurança da Informação • Redes
+Fortinet | Segurança da Informação | Redes
 
 • Certificações
 
