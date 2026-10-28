@@ -12,6 +12,7 @@ Interesse principalmente em Cybersecurity, Redes, Cloud e Automação, buscando 
 Cybersecurity e Segurança da Informação | Redes e infraestrutura | Cloud Computing | Automação | Desenvolvimento de Software | Banco de Dados | Tecnologias
 
 • Linguagens
+
 Python | Java | C++ | JavaScript
 
 • Desenvolvimento
