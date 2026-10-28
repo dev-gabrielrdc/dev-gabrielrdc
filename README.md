@@ -36,7 +36,7 @@ Fortinet NSE 1 | Fortinet NSE 2 | Fortinet NSE 3 | Cisco CCST | Microsoft AZ-900
 Continuar desenvolvendo minha experiência em tecnologia, especialmente nas áreas de Cybersecurity, Cloud, Redes e Automação, enquanto avanço na minha formação em Engenharia de Software.
 
 • Contato: dev.gabrielrdc@gmail.com
-🔗 LinkedIn: www.linkedin.com/in/gabriel-rodrigues-42401035a 
+🔗 LinkedIn: www.linkedin.com/in/gabriel-rodrigues-090asa
 
 ### 💻 Linguagens e Tecnologias
 
