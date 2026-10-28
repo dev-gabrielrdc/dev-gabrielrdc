@@ -1,27 +1,15 @@
 # Gabriel Rodrigues 🐸
-**``**
+**`Software Engineering Student`**
 
 Olá! Sou Gabriel Rodrigues de Carvalho, estudante de Engenharia de Software no 5º período da UNICEPLAC, em Brasília.
 
 Tenho experiência profissional na área de Tecnologia da Informação e Cybersecurity, com atuação em automações, documentação e acompanhamento de instalações de equipamentos Fortinet.
 
-Atualmente, tenho interesse principalmente em Cybersecurity, Redes, Cloud, Automação e Desenvolvimento de Software, buscando sempre transformar o que aprendo em projetos e aplicações práticas.
+Interesse principalmente em Cybersecurity, Redes, Cloud e Automação, buscando sempre transformar o que aprendo em projetos e aplicações práticas.
 
-🚀 Atualmente estudando
+• Atualmente estudando
 
-🛡️ Cybersecurity e Segurança da Informação
-
-🌐 Redes e infraestrutura
-
-☁️ Cloud Computing
-
-🤖 Automação
-
-💻 Desenvolvimento de Software
-
-🗄️ Banco de Dados
-
-🛠️ Tecnologias
+Cybersecurity e Segurança da Informação | Redes e infraestrutura | Cloud Computing | Automação | Desenvolvimento de Software | Banco de Dados | Tecnologias
 
 Linguagens:
 Python • Java • C++ • JavaScript
@@ -35,23 +23,15 @@ Git • GitHub • Cloud • Power BI
 Cybersecurity:
 Fortinet • Segurança da Informação • Redes
 
-📜 Certificações
+• Certificações
 
-Fortinet NSE 1
+Fortinet NSE 1 | Fortinet NSE 2 | Fortinet NSE 3 | Cisco CCST | Microsoft AZ-900
 
-Fortinet NSE 2
-
-Fortinet NSE 3
-
-Cisco CCST
-
-Microsoft AZ-900
-
-📌 Objetivo
+• Objetivo
 
 Continuar desenvolvendo minha experiência em tecnologia, especialmente nas áreas de Cybersecurity, Cloud, Redes e Automação, enquanto avanço na minha formação em Engenharia de Software.
 
-📫 Contato: dev.gabrielrdc@gmail.com
+• Contato: dev.gabrielrdc@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/gabriel-rodrigues-42401035a 
 
 ### 💻 Linguagens e Tecnologias
