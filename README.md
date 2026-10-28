@@ -1,26 +1,58 @@
 # Gabriel Rodrigues 🐸
-**`Desenvolvedor fullstack`**
+**``**
 
-Me chamo Gabriel Rodrigues de Carvalho, tenho 21 anos e sou natural de Brasília - DF. Concluí o ensino médio no Sesi, com o curso técnico em Matemática. Atualmente, estou cursando Engenharia de software na Uniceplac.
+Olá! Sou Gabriel Rodrigues de Carvalho, estudante de Engenharia de Software no 5º período da UNICEPLAC, em Brasília.
 
-<p>
-  <a href="https://github.com/dev-gabrielrdc?tab=followers">
-    <img
-      alt="total stars"
-      title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/dev-gabrielrdc?color=55960c&style=for-the-badge&labelColor=488207&logo=star"
-    />
-  </a>
-  <a href="https://github.com/dev-gabrielrdc?tab=followers">
-    <img
-      alt="followers"
-      title="Follow me on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/followers/dev-gabrielrdc?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=followers&logoColor=white"
-    />
-  </a>
-</p>
+Tenho experiência profissional na área de Tecnologia da Informação e Cybersecurity, com atuação em automações, documentação e acompanhamento de instalações de equipamentos Fortinet.
 
----
+Atualmente, tenho interesse principalmente em Cybersecurity, Redes, Cloud, Automação e Desenvolvimento de Software, buscando sempre transformar o que aprendo em projetos e aplicações práticas.
+
+🚀 Atualmente estudando
+
+🛡️ Cybersecurity e Segurança da Informação
+
+🌐 Redes e infraestrutura
+
+☁️ Cloud Computing
+
+🤖 Automação
+
+💻 Desenvolvimento de Software
+
+🗄️ Banco de Dados
+
+🛠️ Tecnologias
+
+Linguagens:
+Python • Java • C++ • JavaScript
+
+Desenvolvimento:
+HTML • CSS • Programação Orientada a Objetos
+
+Tecnologias e ferramentas:
+Git • GitHub • Cloud • Power BI
+
+Cybersecurity:
+Fortinet • Segurança da Informação • Redes
+
+📜 Certificações
+
+Fortinet NSE 1
+
+Fortinet NSE 2
+
+Fortinet NSE 3
+
+Cisco CCST
+
+Microsoft AZ-900
+
+📌 Objetivo
+
+Continuar desenvolvendo minha experiência em tecnologia, especialmente nas áreas de Cybersecurity, Cloud, Redes e Automação, enquanto avanço na minha formação em Engenharia de Software.
+
+📫 Contato: dev.gabrielrdc@gmail.com
+🔗 LinkedIn: www.linkedin.com/in/gabriel-rodrigues-42401035a 
 
 ### 💻 Linguagens e Tecnologias
 
@@ -104,26 +136,3 @@ title="CSS"
 width="30px"
 style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<br>
-<br>
-
-### 📊 Estatísticas 
-
-<p>
-
-<img 
-    align="left" 
-    alt="GitHub stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=dev-gabrielrdc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    align="left" 
-    alt="GitHub stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-gabrielrdc&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
-/>
